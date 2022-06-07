@@ -11,6 +11,17 @@ sites:
     url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
+    - name: eeclass
+    url: https://ncueeclass.ncu.edu.tw/course/homework/20258
+  - name: youtube
+    url: https://www.youtube.com/
+  - name: 網路位址轉換
+    url: https://zh.wikipedia.org/zh-tw/%E7%BD%91%E7%BB%9C%E5%9C%B0%E5%9D%80%E8%BD%AC%E6%8D%A2
+  - name: 某個pdf
+    url: https://ncueeclass.ncu.edu.tw/media/doc/74434
+    name: 理解網際網路協定（三）
+    url: https://ithelp.ithome.com.tw/articles/10272208
+   
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
